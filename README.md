@@ -46,6 +46,6 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codexboy0417/codexboy0417/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codexboy0417/codexboy0417/output/github-snake.svg" />
+  <source media="(prefers-color-red: light)" srcset="https://raw.githubusercontent.com/codexboy0417/codexboy0417/output/github-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/codexboy0417/codexboy0417/output/github-snake.svg" />
 </picture>
